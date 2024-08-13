@@ -1,0 +1,10 @@
+{
+    "table": "https://docs.google.com/spreadsheet/ccc?key=1MIm7xDltfrmiPlEpL3fbpU-A2zH7Q-8BczxMxU4HDWE&output=csv",
+    "mail-server": {
+        "protocol": "smtp",
+        "host": "smtp.mail.ru",
+        "port": 465,
+        "user": "test_adress",
+        "pass": "test_password"
+    }
+}
